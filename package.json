@@ -1,3 +1,4 @@
+npm install --save-dev gh-pages
 {
   "name": "haveplan-app",
   "version": "1.0.0",
